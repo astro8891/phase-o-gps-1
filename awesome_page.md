@@ -1,3 +1,6 @@
 _wow stuff_
 **it is a sunny day in wellington**
-http://www.youtube.com
+[youtube](http://www.youtube.com)
+```
+<html><p>hello world</p></html>
+```
